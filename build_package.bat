@@ -1,0 +1,1 @@
+cd emacs && zip ..\emacs.vsix *
